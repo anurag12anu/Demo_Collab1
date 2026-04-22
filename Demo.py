@@ -1,1 +1,4 @@
-print('wellcome in demo')
+def demo():
+    print('print demo func')
+
+demo()
